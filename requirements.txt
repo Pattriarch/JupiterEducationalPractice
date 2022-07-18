@@ -1,4 +1,6 @@
 ansible-compat==2.0.2
+matplotlib==3.5.2
+scikit-learn==1.0.2
 appdirs==1.4.4
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
