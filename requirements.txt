@@ -12,6 +12,7 @@ bleach==5.0.1
 bracex==2.2.1
 seaborn==0.11.2
 certifi==2022.6.15
+numpy==1.23.1
 cffi==1.15.0
 colorama==0.4.5
 commonmark==0.9.1
